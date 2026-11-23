@@ -1,4 +1,4 @@
-import {finishedVideoCovers} from './finished-video-covers.js?v=covers-33';
+import {finishedVideoCovers} from './finished-video-covers.js?v=ui-34';
 import {localVideos} from './local-videos.js?v=original-13';
 import {projectResources} from './project-resources.js?v=assets-8';
 // Imported from the public Bilibili profile 38827789. Categories inferred from titles; editable.
