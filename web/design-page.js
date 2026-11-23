@@ -1,6 +1,6 @@
-import {uploadedDesignProjects as projects} from './design-projects.js?v=wheel-24';
-import {designRoutes,designHref,designCategoryCard,designProjectCard} from './design-routes.js?v=wheel-24';
-import {openProject} from './project-details.js?v=wheel-24';
+import {uploadedDesignProjects as projects} from './design-projects.js?v=scroll-25';
+import {designRoutes,designHref,designCategoryCard,designProjectCard} from './design-routes.js?v=scroll-25';
+import {openProject} from './project-details.js?v=scroll-25';
 const $=s=>document.querySelector(s),parts=location.pathname.split('/').filter(Boolean),group=designRoutes.find(g=>g.slug===parts[1]);
 function crumb(text,href){const el=document.createElement(href?'a':'span');el.textContent=text;if(href)el.href=href;else el.setAttribute('aria-current','page');$('#pageBreadcrumb').append(el)}
 crumb('首页','/');crumb('设计作品',parts.length===1?null:'/design');
