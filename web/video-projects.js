@@ -22,7 +22,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/7268c5c65cea265c8a512af6174c41bd6d1aa208.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1EEyxzwEAP",
@@ -43,7 +43,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i1.hdslb.com/bfs/archive/bfc9f638cd812260093bdf320651580740ef088b.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1EEyxzwEPK",
@@ -64,7 +64,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/b17f39e3626d6a983c59cac1c522930b679d184c.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1fEyxzwEAE",
@@ -85,7 +85,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/0680af0002f4cecbb30aa802cde49c8d8682a4af.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1BeypzWE5Y",
@@ -106,7 +106,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/decd55551ef4c122b75e31cd1412e38d736050ed.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1ovypzXEhP",
@@ -272,7 +272,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/0a9d4d87edcd12fbfe819a4be1cc989e3b87a4ee.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1CHypzaEdC",
@@ -322,7 +322,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i0.hdslb.com/bfs/archive/a103275b0c189b0fb818eda9ab2a89b1760db334.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1sEypzvEou",
@@ -343,7 +343,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i0.hdslb.com/bfs/archive/dd3aade825244f86626d0849e08dcfc3b365373a.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1PnypzPESU",
@@ -364,7 +364,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i2.hdslb.com/bfs/archive/ea5e965d1127f09c859e9ad86dc8a2e0f305bcd0.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV16typztEvY",
@@ -385,7 +385,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i0.hdslb.com/bfs/archive/6a843b5d29cc1145f39888daf64c423f43bde37b.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1zbypzoES6",
@@ -406,7 +406,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i0.hdslb.com/bfs/archive/ea2d1be14f9b85a370b5669b5c427a516da08ee3.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   },
   {
     "id": "BV1zbypzoEdH",
@@ -427,7 +427,7 @@ export const videoProjects=[
       }
     ],
     "poster": "https://i1.hdslb.com/bfs/archive/11a01c9ad35d4a08fbd602a08afb304cb7339cce.jpg",
-    "summary": "来自 B 站主页「Motu木兔」的作品。项目介绍与制作过程待补充。"
+    "summary": "来自 B 站主页「Motu木兔」的作品。"
   }
 ];
 
