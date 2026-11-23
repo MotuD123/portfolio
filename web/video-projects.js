@@ -1,3 +1,4 @@
+import {finishedVideoCovers} from './finished-video-covers.js?v=covers-33';
 import {localVideos} from './local-videos.js?v=original-13';
 import {projectResources} from './project-resources.js?v=assets-8';
 // Imported from the public Bilibili profile 38827789. Categories inferred from titles; editable.
@@ -436,3 +437,5 @@ videoProjects.forEach(project=>{if(project.type==='影游')project.type='互动�
 videoProjects.sort((a,b)=>videoTypeOrder.indexOf(a.type)-videoTypeOrder.indexOf(b.type));
 
 videoProjects.forEach(project=>{for(const episode of project.episodes){const media=localVideos[project.id]?.find(p=>p.part===episode.part);if(media){Object.assign(episode,media);episode.duration=String(Math.floor(media.durationSeconds/60)).padStart(2,'0')+':'+String(Math.floor(media.durationSeconds%60)).padStart(2,'0')}}project.source='local';project.summary=project.synopsis||'项目资产与创作脚本可在播放器下方查看。'});
+
+videoProjects.forEach(project=>{const poster=finishedVideoCovers[project.id];if(poster){project.poster=poster;project.episodes.forEach(episode=>episode.poster=poster)}});

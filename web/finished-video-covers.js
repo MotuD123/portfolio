@@ -1,0 +1,20 @@
+export const finishedVideoCovers={
+  "BV1zbypzoES6": "/assets/video-covers-final/BV1zbypzoES6.webp",
+  "BV1zbypzoEdH": "/assets/video-covers-final/BV1zbypzoEdH.webp",
+  "BV16typztEvY": "/assets/video-covers-final/BV16typztEvY.webp",
+  "BV1EjyxzYEvn": "/assets/video-covers-final/BV1EjyxzYEvn.webp",
+  "BV1sEypzvEou": "/assets/video-covers-final/BV1sEypzvEou.webp",
+  "BV1PnypzPESU": "/assets/video-covers-final/BV1PnypzPESU.webp",
+  "BV1pWypzwEkq": "/assets/video-covers-final/BV1pWypzwEkq.webp",
+  "BV1yEypzeEQY": "/assets/video-covers-final/BV1yEypzeEQY.webp",
+  "BV1EEyxzwEPK": "/assets/video-covers-final/BV1EEyxzwEPK.webp",
+  "BV1EEyxzwEAP": "/assets/video-covers-final/BV1EEyxzwEAP.webp",
+  "BV1CHypzaEdC": "/assets/video-covers-final/BV1CHypzaEdC.webp",
+  "BV19rypzUE6Y": "/assets/video-covers-final/BV19rypzUE6Y.webp",
+  "BV1R6ypzJEfz": "/assets/video-covers-final/BV1R6ypzJEfz.webp",
+  "BV1erypzUEio": "/assets/video-covers-final/BV1erypzUEio.webp",
+  "BV1ovypzXEhP": "/assets/video-covers-final/BV1ovypzXEhP.webp",
+  "BV1zhypzxEmC": "/assets/video-covers-final/BV1zhypzxEmC.webp",
+  "BV1fEyxzwEAE": "/assets/video-covers-final/BV1fEyxzwEAE.webp",
+  "BV1BeypzWE5Y": "/assets/video-covers-final/BV1BeypzWE5Y.webp"
+};

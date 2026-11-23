@@ -53,3 +53,5 @@ header nav,.page-header nav{width:88px;gap:3px}header nav button,header nav a,.p
 
 
 
+
+.category-page-card.has-category-cover .category-card-content{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;flex:none;padding:9px 0!important;min-height:0}.category-card-content .category-eyebrow{display:none}.category-page-card.has-category-cover .category-card-content h3{font-size:22px!important;font-weight:400;line-height:1.2;margin:0!important;grid-column:1}.category-page-card.has-category-cover .category-card-content p{font-size:12px;line-height:1.4;margin:0!important;grid-column:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.category-card-content .category-card-bottom{grid-column:2;grid-row:1/3;display:flex;flex-direction:column;justify-content:center;align-items:flex-end;gap:4px;margin:0!important;padding:0!important;font-size:11px;line-height:1.4}.project-caption{padding:9px 0;gap:10px}.project-caption h3{font-size:15px}.project-caption>span{font-size:12px}@media(max-width:600px){.category-page-card.has-category-cover .category-card-content h3{font-size:20px!important}}

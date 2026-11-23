@@ -1,4 +1,4 @@
-import {uploadedDesignProjects} from './design-projects.js?v=layout-32';
+import {uploadedDesignProjects} from './design-projects.js?v=covers-33';
 export const designRoutes=[
 {name:'品牌全案',slug:'branding',description:'品牌定位 / 标志系统 / 包装与传播',project:'brand-tayou'},
 {name:'电商全案',slug:'commerce',description:'产品主视觉 / 商品展示 / 营销应用',project:'commerce-chanel'},
