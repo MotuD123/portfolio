@@ -1,6 +1,6 @@
-import {videoProjects} from './video-projects.js?v=direct-29';
-import {openProject} from './project-details.js?v=direct-29';
-import {videoRoutes,categoryHref,typeHref,categoryCard,subtypeCard} from './video-routes.js?v=direct-29';
+import {videoProjects} from './video-projects.js?v=profile-30';
+import {openProject} from './project-details.js?v=profile-30';
+import {videoRoutes,categoryHref,typeHref,categoryCard,subtypeCard} from './video-routes.js?v=profile-30';
 const $=s=>document.querySelector(s),segments=location.pathname.split('/').filter(Boolean),group=videoRoutes.find(g=>g.slug===segments[1]),type=group?.types.find(t=>t.slug===segments[2]);
 function crumb(text,href){const node=document.createElement(href?'a':'span');node.textContent=text;if(href)node.href=href;else node.setAttribute('aria-current','page');$('#pageBreadcrumb').append(node)}
 crumb('首页','/');crumb('视频作品',segments.length===1?null:'/video');
