@@ -1,5 +1,5 @@
 import {videoProjects} from './video-projects.js?v=ui-38';
-import {openProject} from './project-details.js?v=ui-40';
+import {openProject} from './project-details.js?v=ui-41';
 import {videoRoutes,categoryHref,typeHref,categoryCard,subtypeCard} from './video-routes.js?v=ui-34';
 const $=s=>document.querySelector(s),segments=location.pathname.split('/').filter(Boolean),group=videoRoutes.find(g=>g.slug===segments[1]),type=group?.types.find(t=>t.slug===segments[2]);
 function crumb(text,href){const node=document.createElement(href?'a':'span');node.textContent=text;if(href)node.href=href;else node.setAttribute('aria-current','page');$('#pageBreadcrumb').append(node)}
