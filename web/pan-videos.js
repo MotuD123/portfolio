@@ -22,6 +22,7 @@ export const panVideos = {
   "幸福的证明": { url: "https://pan.baidu.com/s/1rXuYXM6uNm8PR27vkgjRkg?pwd=eubn", code: "eubn" },
   "再见": { url: "https://pan.baidu.com/s/1HffhwJDkvhtj5B8OVzwlRA?pwd=sjv9", code: "sjv9" },
   "石头扫地机器人": { url: "https://pan.baidu.com/s/1Ec5WHfchfsErydD5aVdiBw?pwd=6dta", code: "6dta" },
+  "余白鸡尾酒": { url: "https://pan.baidu.com/s/1DZNQiVb22lLvnUJDSYQzxA?pwd=ij8r", code: "ij8r" },
   "北纬47度低GI水果玉米汁广告": { url: "https://pan.baidu.com/s/1vIgRue-JmKeUb9lxfVuXRQ?pwd=cyt5", code: "cyt5" },
   "哺乳裙": { url: "https://pan.baidu.com/s/1-S_rpUMqfdSz3ecF_qEPPw?pwd=156u", code: "156u" },
   "pet_hair_remover": { url: "https://pan.baidu.com/s/1UPW2dqmoIrbInMOFlfLirA?pwd=e3nf", code: "e3nf" },

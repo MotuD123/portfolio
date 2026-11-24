@@ -1,4 +1,4 @@
-import {videoProjects} from './video-projects.js?v=ui-37';
+import {videoProjects} from './video-projects.js?v=ui-38';
 import {openProject} from './project-details.js?v=ui-37';
 import {videoRoutes,categoryHref,typeHref,categoryCard,subtypeCard} from './video-routes.js?v=ui-34';
 const $=s=>document.querySelector(s),segments=location.pathname.split('/').filter(Boolean),group=videoRoutes.find(g=>g.slug===segments[1]),type=group?.types.find(t=>t.slug===segments[2]);

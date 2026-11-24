@@ -1,7 +1,7 @@
 import {finishedVideoCovers} from './finished-video-covers.js?v=cover-2';
 import {localVideos} from './local-videos.js?v=original-13';
 import {projectResources} from './project-resources.js?v=assets-8';
-import {panVideos} from './pan-videos.js?v=pan-1';
+import {panVideos} from './pan-videos.js?v=pan-2';
 // Imported from the public Bilibili profile 38827789. Categories inferred from titles; editable.
 export const videoProjects=[
   {
