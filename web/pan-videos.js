@@ -1,0 +1,32 @@
+// Baidu Netdisk mirrors for each video episode, keyed by the file name without ".mp4".
+export const panVideos = {
+  "重生之我被美女包围了": { url: "https://pan.baidu.com/s/17x1muCSilaBb1iSpo-BIXA?pwd=6wz9", code: "6wz9" },
+  "剑荡山河-1": { url: "https://pan.baidu.com/s/1pvj3HSSN1FWtjsuQxMLMzw?pwd=xqck", code: "xqck" },
+  "剑荡山河-2": { url: "https://pan.baidu.com/s/1Edd7CISEIGsGRzRAJPOA8g?pwd=fadp", code: "fadp" },
+  "比格系道门小祖宗下山救满门-1": { url: "https://pan.baidu.com/s/1UMaYIYbrIkM8Yvx4KCe5zA?pwd=d9cg", code: "d9cg" },
+  "比格系道门小祖宗下山救满门-2": { url: "https://pan.baidu.com/s/1t0dC6FCG8YpM0t1lIiDrlw?pwd=gfgi", code: "gfgi" },
+  "十二年的陪伴-1": { url: "https://pan.baidu.com/s/1Jw3nn6eEHU8VCDVCUaxIYw?pwd=76u2", code: "76u2" },
+  "十二年的陪伴-2": { url: "https://pan.baidu.com/s/1eXpHgliLtSfUxFG4ojJtSQ?pwd=trdr", code: "trdr" },
+  "그해, 스무살.-1": { url: "https://pan.baidu.com/s/1-VljF_8peN4C7OscpQeYzw?pwd=5v7w", code: "5v7w" },
+  "그해, 스무살.-2": { url: "https://pan.baidu.com/s/1rurCzzbJWfHaUD8amb9GIQ?pwd=rcry", code: "rcry" },
+  "The animal whispering cutie is back-9": { url: "https://pan.baidu.com/s/1_U5UB50k918oe99ThziPMw?pwd=bdf4", code: "bdf4" },
+  "The animal whispering cutie is back-10": { url: "https://pan.baidu.com/s/1YSAtKZCrNYWPqqhhPxp8Fw?pwd=eq1t", code: "eq1t" },
+  "The Duke Thought His Bride Was Ugly—Until She Remove the Mask-1": {
+    url: "https://pan.baidu.com/s/1rLAZ451LHTfRNb-Nq5NzXg?pwd=nib5",
+    code: "nib5",
+  },
+  "The Duke Thought His Bride Was Ugly—Until She Remove the Mask-2": {
+    url: "https://pan.baidu.com/s/1lbf5Xn8TRbJmGILCyVY5Ew?pwd=3b4w",
+    code: "3b4w",
+  },
+  "幸福的证明": { url: "https://pan.baidu.com/s/1rXuYXM6uNm8PR27vkgjRkg?pwd=eubn", code: "eubn" },
+  "再见": { url: "https://pan.baidu.com/s/1HffhwJDkvhtj5B8OVzwlRA?pwd=sjv9", code: "sjv9" },
+  "石头扫地机器人": { url: "https://pan.baidu.com/s/1Ec5WHfchfsErydD5aVdiBw?pwd=6dta", code: "6dta" },
+  "北纬47度低GI水果玉米汁广告": { url: "https://pan.baidu.com/s/1vIgRue-JmKeUb9lxfVuXRQ?pwd=cyt5", code: "cyt5" },
+  "哺乳裙": { url: "https://pan.baidu.com/s/1-S_rpUMqfdSz3ecF_qEPPw?pwd=156u", code: "156u" },
+  "pet_hair_remover": { url: "https://pan.baidu.com/s/1UPW2dqmoIrbInMOFlfLirA?pwd=e3nf", code: "e3nf" },
+  "旭漠免洗手套": { url: "https://pan.baidu.com/s/1Kv1oZfSEQ2j5E8mxxZU_Uw?pwd=7unq", code: "7unq" },
+  "活力28洗衣液": { url: "https://pan.baidu.com/s/1WDUv_O3NbwOGQFZac-1MBw?pwd=j2py", code: "j2py" },
+  "生存游戏": { url: "https://pan.baidu.com/s/1c3iITHsGHj-tP0FuqvAfaw?pwd=mqwx", code: "mqwx" },
+  "捕鱼大作战": { url: "https://pan.baidu.com/s/10MEzVhuzq2mf1SoUHrR8iA?pwd=gu9f", code: "gu9f" },
+};
