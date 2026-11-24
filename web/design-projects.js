@@ -234,7 +234,7 @@ export const uploadedDesignProjects=[
     "category": "品牌",
     "format": "DESIGN",
     "pending": false,
-    "poster": "/assets/design/brand-kongshan/01.webp?v=design-1",
+    "poster": "/assets/design/brand-kongshan/04.webp?v=design-2",
     "assets": [
       {
         "title": "01 品牌标志",
