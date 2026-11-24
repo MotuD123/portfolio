@@ -231,7 +231,7 @@ export const uploadedDesignProjects=[
   {
     "id": "brand-kongshan",
     "title": "空膳集",
-    "category": "品牌",
+    "category": "空膳集",
     "format": "DESIGN",
     "pending": false,
     "poster": "/assets/design/brand-kongshan/04.webp?v=design-2",
@@ -336,127 +336,111 @@ export const uploadedDesignProjects=[
     "summary": "食品品牌的全案视觉：标志系统、包装结构与产品呈现。"
   },
   {
-    "id": "commerce-haqu",
-    "title": "哈趣",
-    "category": "电商",
+    "id": "commerce-woof",
+    "title": "Woof Fun",
+    "category": "Woof Fun",
     "format": "DESIGN",
     "pending": false,
-    "poster": "/assets/design/commerce-haqu/01.webp?v=design-1",
+    "poster": "/assets/design/commerce-woof/01.webp?v=design-3",
     "assets": [
       {
-        "title": "01 主图场景",
-        "src": "/assets/design/commerce-haqu/01.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/01.webp?v=design-1",
+        "title": "01 主视觉海报",
+        "src": "/assets/design/commerce-woof/01.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/01.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "02 颜色设定",
-        "src": "/assets/design/commerce-haqu/02.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/02.webp?v=design-1",
+        "title": "02 标志标准组合",
+        "src": "/assets/design/commerce-woof/02.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/02.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "03 摆拍场景",
-        "src": "/assets/design/commerce-haqu/03.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/03.webp?v=design-1",
+        "title": "03 主画面",
+        "src": "/assets/design/commerce-woof/03.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/03.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "04 投屏客厅",
-        "src": "/assets/design/commerce-haqu/04.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/04.webp?v=design-1",
+        "title": "04 色彩设定",
+        "src": "/assets/design/commerce-woof/04.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/04.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "05 儿童观影",
-        "src": "/assets/design/commerce-haqu/05.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/05.webp?v=design-1",
+        "title": "05 产品全家福",
+        "src": "/assets/design/commerce-woof/05.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/05.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "06 MT9芯片",
-        "src": "/assets/design/commerce-haqu/06.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/06.webp?v=design-1",
+        "title": "06 形象双联",
+        "src": "/assets/design/commerce-woof/06.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/06.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "07 亮度认证",
-        "src": "/assets/design/commerce-haqu/07.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/07.webp?v=design-1",
+        "title": "07 包装三款",
+        "src": "/assets/design/commerce-woof/07.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/07.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "08 亮度不虚标",
-        "src": "/assets/design/commerce-haqu/08.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/08.webp?v=design-1",
+        "title": "08 礼盒展开",
+        "src": "/assets/design/commerce-woof/08.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/08.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "09 IP5X防尘",
-        "src": "/assets/design/commerce-haqu/09.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/09.webp?v=design-1",
+        "title": "09 周边与标签",
+        "src": "/assets/design/commerce-woof/09.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/09.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "10 4K解码",
-        "src": "/assets/design/commerce-haqu/10.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/10.webp?v=design-1",
+        "title": "10 产品平铺",
+        "src": "/assets/design/commerce-woof/10.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/10.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "11 色域对比",
-        "src": "/assets/design/commerce-haqu/11.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/11.webp?v=design-1",
+        "title": "11 礼盒场景",
+        "src": "/assets/design/commerce-woof/11.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/11.webp?v=design-3",
         "caption": "",
         "width": 1600,
         "height": 900
       },
       {
-        "title": "12 功能卡片",
-        "src": "/assets/design/commerce-haqu/12.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/12.webp?v=design-1",
+        "title": "屏幕截图 2026-11-24 183353",
+        "src": "/assets/design/commerce-woof/12.webp?v=design-3",
+        "thumbnail": "/assets/design/commerce-woof/12.webp?v=design-3",
         "caption": "",
         "width": 1600,
-        "height": 900
-      },
-      {
-        "title": "13 音效结构",
-        "src": "/assets/design/commerce-haqu/13.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/13.webp?v=design-1",
-        "caption": "",
-        "width": 1600,
-        "height": 900
-      },
-      {
-        "title": "14 接口说明",
-        "src": "/assets/design/commerce-haqu/14.webp?v=design-1",
-        "thumbnail": "/assets/design/commerce-haqu/14.webp?v=design-1",
-        "caption": "",
-        "width": 1600,
-        "height": 900
+        "height": 2066
       }
     ],
-    "summary": "投影仪产品的电商主图、卖点信息与场景化页面设计。"
+    "summary": "宠物品牌的视觉系统：标志、包装、礼盒与周边应用。"
   },
   {
     "id": "illustration-series",
