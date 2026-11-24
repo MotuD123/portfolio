@@ -57,7 +57,7 @@ const navMap={profile:$('#menu'),design:$('#aboutButton'),video:$('#crewButton')
 
 
 
-async function createVideoNavigation(){const [{videoRoutes,categoryCard},{videoProjects}]=await Promise.all([import('./video-routes.js?v=ui-34'),import('./video-projects.js?v=ui-42')]);const section=$('#video');section.querySelector('#videoCategories').remove();section.querySelector('#videoFilters').remove();section.querySelector('#videoCount').textContent='先选择方向，再进入对应的作品分类。';const grid=$('#videoGrid');grid.className='category-page-grid';grid.replaceChildren(...videoRoutes.map(g=>categoryCard(g,videoProjects)))}
+async function createVideoNavigation(){const [{videoRoutes,categoryCard},{videoProjects}]=await Promise.all([import('./video-routes.js?v=ui-34'),import('./video-projects.js?v=ui-43')]);const section=$('#video');section.querySelector('#videoCategories').remove();section.querySelector('#videoFilters').remove();section.querySelector('#videoCount').textContent='先选择方向，再进入对应的作品分类。';const grid=$('#videoGrid');grid.className='category-page-grid';grid.replaceChildren(...videoRoutes.map(g=>categoryCard(g,videoProjects)))}
 const destination=new URLSearchParams(location.search).get('section');if(['profile','design','video'].includes(destination))enterSectionDirect(destination);
 
 
