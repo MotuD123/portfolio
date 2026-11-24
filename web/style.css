@@ -66,3 +66,4 @@ header nav,.page-header nav{width:88px;gap:3px}header nav button,header nav a,.p
 .design-sheet:hover img{transform:scale(1.02)}
 .outline-button{transition:background .2s,color .2s}
 .outline-button:hover{background:#000;color:#fff}
+.detail-meta .pan-code{margin-left:10px}
